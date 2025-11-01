@@ -1,6 +1,6 @@
 <!-- HEADER WITH ANIMATION -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Hi">  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Hi">
   <span style="color:#00FFFF;">Hey there, I'm Abhishek Singh</span> 👨‍💻
 </h1>
 
@@ -11,8 +11,9 @@
 ---
 
 <p align="center" style="color:#A9A9A9;">
-  Passionate about <b>building beautiful, high-performance web experiences</b> using modern technologies.  
-  Always exploring, learning, and turning ideas into reality. 🌱
+  Passionate about <b>building dynamic, high-performance web applications</b> using the MERN stack.  
+  I enjoy designing intuitive user interfaces and writing clean, efficient backend code.  
+  Always learning, experimenting, and striving for excellence. 🚀
 </p>
 
 ---
@@ -25,6 +26,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-00FFFF?style=for-the-badge&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-800080?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### ⚙️ Backend  
 ![Node.js](https://img.shields.io/badge/Node.js-3CB371?style=for-the-badge&logo=node.js&logoColor=white)
@@ -41,29 +43,28 @@
 
 ---
 
-<div align="center">
-  <img src="https://github.com/DenverCoder1/readme-typing-svg/raw/main/typing.svg" width="0" height="10">
-  <img src="https://github.com/kroim/profile-views-counter/blob/master/svg/gradient.svg" width="100%" height="2px">
-</div>
-
 ### 🧠 Currently Exploring  
-- 🔐 Authentication & JWT  
+- 🔐 Authentication & Authorization (JWT)  
 - ☁️ Cloud Deployment (Netlify, Vercel)  
 - 🧮 MongoDB Aggregation Pipeline  
-- ⚡ Scalable Full-Stack Application Design  
+- ⚡ Scalable Architecture & API Optimization  
 
 ---
 
 ### 🚀 Featured Projects  
 
 #### 🍫 [MFK Edibles](https://mfkedibles.in)  
-Responsive and SEO-optimized business website for a homemade edibles brand.  
+Fully responsive business website for a homemade edibles brand. Features product display, animations, and SEO optimization.
 
 #### 💻 [Crimsons Systems](https://crimsonssystems.com)  
-Corporate React-based website showcasing IT services with sleek UI and optimized performance.  
+Corporate React-based site showcasing IT services with fast navigation and clean UI/UX.
 
 #### 📚 [Book Finder](https://github.com/shakewithabhi/book-finder)  
-Modern React app to search and explore books using APIs — fast, dynamic, and minimal.  
+React app that lets users search and explore books via public APIs — built with smooth UI and real-time data fetching.
+
+#### 🎓 [Learning Management System (LMS)](https://github.com/shakewithabhi/lms)  
+A complete MERN-based LMS platform that allows students to enroll in courses, track progress, and manage content.  
+Includes authentication, admin dashboard, and RESTful APIs for scalability.
 
 ---
 
@@ -76,6 +77,14 @@ Modern React app to search and explore books using APIs — fast, dynamic, and m
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakewithabhi&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shakewithabhi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakewithabhi&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&hide_border=true" />
 </p>
 
 ---
@@ -97,13 +106,11 @@ Modern React app to search and explore books using APIs — fast, dynamic, and m
 ---
 
 ### 💬 Fun Fact  
-> “Every project I build teaches me something new — and I’m just getting started.” 🚀  
+> “Every project I build teaches me something new — consistency and curiosity fuel my growth.” 🌟  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shakewithabhi&label=Profile%20Views&color=00FFFF&style=flat-square" alt="profile views" />
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=80&section=footer"/>
