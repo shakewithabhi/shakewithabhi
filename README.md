@@ -23,24 +23,24 @@
 ![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=F97316)
 ![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=3B82F6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=FACC15)
-![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=3B82F6)
+![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=60A5FA)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0F172A?style=for-the-badge&logo=bootstrap&logoColor=A855F7)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
 
 #### ⚙️ Backend  
 ![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=22C55E)
-![Express.js](https://img.shields.io/badge/Express.js-0F172A?style=for-the-badge&logo=express&logoColor=3B82F6)
+![Express.js](https://img.shields.io/badge/Express.js-0F172A?style=for-the-badge&logo=express&logoColor=60A5FA)
 
 #### 🗄️ Database  
 ![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=22C55E)
 
 #### 🧩 Tools  
 ![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F87171)
-![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=3B82F6)
+![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA)
 ![Postman](https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=F97316)
-![VS Code](https://img.shields.io/badge/VS%20Code-0F172A?style=for-the-badge&logo=visual-studio-code&logoColor=3B82F6)
+![VS Code](https://img.shields.io/badge/VS%20Code-0F172A?style=for-the-badge&logo=visual-studio-code&logoColor=60A5FA)
 ![Netlify](https://img.shields.io/badge/Netlify-0F172A?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Vercel](https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+![Vercel](https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=E5E7EB)
 
 ---
 
@@ -75,20 +75,20 @@ Minimal design with smooth API handling and pagination support.
 ### 📊 GitHub Analytics  
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shakewithabhi&show_icons=true&theme=tokyonight&title_color=3B82F6&icon_color=A855F7&text_color=94A3B8&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakewithabhi&layout=compact&theme=tokyonight&title_color=A855F7&text_color=94A3B8&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shakewithabhi&show_icons=true&theme=tokyonight&title_color=3B82F6&icon_color=A855F7&text_color=9CA3AF&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakewithabhi&layout=compact&theme=tokyonight&title_color=A855F7&text_color=9CA3AF&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakewithabhi&theme=tokyonight&ring=3B82F6&fire=A855F7&currStreakLabel=3B82F6&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakewithabhi&theme=tokyonight&ring=3B82F6&fire=A855F7&currStreakLabel=60A5FA&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shakewithabhi&theme=tokyonight&title=A855F7&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shakewithabhi&theme=tokyonight&title=60A5FA&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakewithabhi&bg_color=0D1117&color=3B82F6&line=A855F7&point=3B82F6&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakewithabhi&bg_color=0D1117&color=60A5FA&line=A855F7&point=60A5FA&hide_border=true" />
 </p>
 
 ---
@@ -100,7 +100,7 @@ Minimal design with smooth API handling and pagination support.
     <img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=F87171" />
   </a>
   <a href="https://linkedin.com/in/abhishek-singh-6b65b62b1">
-    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=3B82F6" />
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA" />
   </a>
   <a href="https://github.com/shakewithabhi">
     <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=A855F7" />
