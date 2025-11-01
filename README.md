@@ -1,117 +1,82 @@
-<!-- HEADER WITH ANIMATION -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Hi">
-  <span style="color:#3B82F6;">Hey there, I'm Abhishek Singh</span> 👨‍💻
-</h1>
+# 👋 Hi, I'm Abhishek Singh
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=Front-End+Developer;Aspiring+Full-Stack+Engineer;Tech+Explorer+and+Problem+Solver;Building+Modern+MERN+Applications" alt="Typing SVG" />
-</p>
+🚀 Passionate **Front-End Developer** currently expanding into **Full-Stack Web Development**.  
+I love building interactive, high-performance web apps and exploring modern technologies that make the web faster, smarter, and more secure.
 
 ---
 
-<p align="center" style="color:#9CA3AF;">
-  Passionate about <b style="color:#3B82F6;">building dynamic, high-performance web applications</b> using the MERN stack.  
-  I enjoy designing intuitive user interfaces and writing clean, efficient backend code.  
-  Always learning, experimenting, and striving for excellence. 🚀
-</p>
+## 💻 Tech Stack
+
+### 🖥️ Frontend
+![HTML5](https://img.shields.io/badge/HTML5-1E3A8A?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1E3A8A?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E3A8A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-1E3A8A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1E3A8A?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1E3A8A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-1E3A8A?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-1E3A8A?style=for-the-badge&logo=express&logoColor=FFFFFF)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-1E3A8A?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-1E3A8A?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-1E3A8A?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Postman](https://img.shields.io/badge/Postman-1E3A8A?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![VS Code](https://img.shields.io/badge/VS_Code-1E3A8A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Netlify](https://img.shields.io/badge/Netlify-1E3A8A?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Vercel](https://img.shields.io/badge/Vercel-1E3A8A?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
 
 ---
 
-### ⚙️ Tech Stack  
-
-#### 🎨 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-1E293B?style=for-the-badge&logo=html5&logoColor=F97316)
-![CSS3](https://img.shields.io/badge/CSS3-1E293B?style=for-the-badge&logo=css3&logoColor=3B82F6)
-![JavaScript](https://img.shields.io/badge/JavaScript-1E293B?style=for-the-badge&logo=javascript&logoColor=FACC15)
-![React](https://img.shields.io/badge/React-1E293B?style=for-the-badge&logo=react&logoColor=3B82F6)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-1E293B?style=for-the-badge&logo=bootstrap&logoColor=A855F7)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-1E293B?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-
-#### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/Node.js-1E293B?style=for-the-badge&logo=node.js&logoColor=22C55E)
-![Express.js](https://img.shields.io/badge/Express.js-1E293B?style=for-the-badge&logo=express&logoColor=3B82F6)
-
-#### 🗄️ Database  
-![MongoDB](https://img.shields.io/badge/MongoDB-1E293B?style=for-the-badge&logo=mongodb&logoColor=22C55E)
-
-#### 🧩 Tools  
-![Git](https://img.shields.io/badge/Git-1E293B?style=for-the-badge&logo=git&logoColor=F87171)
-![GitHub](https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=3B82F6)
-![Postman](https://img.shields.io/badge/Postman-1E293B?style=for-the-badge&logo=postman&logoColor=F97316)
-![VS Code](https://img.shields.io/badge/VS%20Code-1E293B?style=for-the-badge&logo=visual-studio-code&logoColor=3B82F6)
+## 🧠 Currently Learning
+- Secure Authentication (JWT & Bcrypt)
+- Cloud Deployment (Vercel / Netlify)
+- MongoDB Aggregation Pipeline
+- API Security & Optimization
 
 ---
 
-### 🧠 Currently Exploring  
-- 🔐 Authentication & Authorization (JWT)  
-- ☁️ Cloud Deployment (Netlify, Vercel)  
-- 🧮 MongoDB Aggregation Pipeline  
-- ⚡ Scalable Architecture & API Optimization  
+## 📊 Analytical Skills
+I focus on **problem-solving through data-driven development**:
+- Designing scalable REST APIs with efficient MongoDB queries  
+- Applying performance analytics to optimize page load times and reduce bundle size  
+- Tracking UI/UX behavior to improve usability and accessibility  
+- Leveraging insights to enhance user engagement and retention  
 
 ---
 
-### 🚀 Featured Projects  
+## 🚀 Projects
 
-#### 🍫 [MFK Edibles](https://mfkedibles.in)  
-Fully responsive business website for a homemade edibles brand. Features product display, animations, and SEO optimization.
+### 🥗 [MFK Edibles](https://mfkedibles.in)
+A professional food product website built with **React**, **Bootstrap**, and **EmailJS** for seamless customer interaction. Focused on clean UI and responsive design.
 
-#### 💻 [Crimsons Systems](https://crimsonssystems.com)  
-Corporate React-based site showcasing IT services with fast navigation and clean UI/UX.
+### 🏢 [Crimsons Systems](https://crimsonssystems.com)
+A corporate website built with **React** and **TailwindCSS**, focusing on modern design, performance, and SEO optimization.
 
-#### 📚 [Book Finder](https://github.com/shakewithabhi/book-finder)  
-React app that lets users search and explore books via public APIs — built with smooth UI and real-time data fetching.
+### 🎓 [LMS - Learning Management System](https://github.com/shakewithabhi/lms)
+A full-featured **Learning Management System** built using **React, Node.js, Express.js, and MongoDB**.  
+Includes:
+- Authentication (JWT + bcrypt)
+- Role-based Access (Admin/Instructor/Student)
+- Course Management & Progress Tracking
+- Responsive Dashboard UI
 
-#### 🎓 [Learning Management System (LMS)](https://github.com/shakewithabhi/lms)  
-A complete MERN-based LMS platform that allows students to enroll in courses, track progress, and manage content.  
-Includes authentication, admin dashboard, and RESTful APIs for scalability.
-
----
-
-### 📊 GitHub Analytics  
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shakewithabhi&show_icons=true&theme=tokyonight&title_color=3B82F6&icon_color=A855F7&text_color=94A3B8&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakewithabhi&layout=compact&theme=tokyonight&title_color=A855F7&text_color=94A3B8&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakewithabhi&theme=tokyonight&ring=3B82F6&fire=A855F7&currStreakLabel=3B82F6&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shakewithabhi&theme=tokyonight&title=A855F7&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakewithabhi&bg_color=0D1117&color=3B82F6&line=A855F7&point=3B82F6&hide_border=true" />
-</p>
+### 📚 [Book Finder](https://github.com/shakewithabhi/book-finder)
+A web app using the **Google Books API** to let users search, view, and explore books with responsive design and real-time data fetching.
 
 ---
 
-### 🤝 Connect with Me  
+## 📫 Let's Connect
 
-<p align="center">
-  <a href="mailto:abhishek11singh2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1E293B?style=for-the-badge&logo=gmail&logoColor=F87171" />
-  </a>
-  <a href="https://linkedin.com/in/abhishek-singh-6b65b62b1">
-    <img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=linkedin&logoColor=3B82F6" />
-  </a>
-  <a href="https://github.com/shakewithabhi">
-    <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=A855F7" />
-  </a>
-</p>
+📧 **Email:** [abhishek11singh2003@gmail.com](mailto:abhishek11singh2003@gmail.com)  
+💼 **LinkedIn:** [Abhishek Singh](https://linkedin.com/in/abhishek-singh-6b65b62b1)  
+💻 **GitHub:** [shakewithabhi](https://github.com/shakewithabhi)
 
 ---
 
-### 💬 Fun Fact  
-> “Every project I build teaches me something new — consistency and curiosity fuel my growth.” ⚡  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shakewithabhi&label=Profile%20Views&color=3B82F6&style=flat-square" alt="profile views" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=80&section=footer"/>
-</p>
+⭐ _"Code. Create. Contribute."_  
+> _Driven by curiosity, focused on growth._
