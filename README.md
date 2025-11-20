@@ -1,6 +1,6 @@
 <!-- HEADER WITH ANIMATION -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Hi">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Hi">
   <span style="color:#3B82F6;">Hey there, I'm Abhishek Singh</span> 👨‍💻
 </h1>
 
@@ -10,41 +10,49 @@
 
 ---
 
-<p align="center" style="color:#9CA3AF;">
+<p align="center" style="color:#9CA3AF; font-size:16px;">
   Passionate about <b style="color:#3B82F6;">building dynamic, high-performance web applications</b> using the MERN stack.  
-  I enjoy crafting beautiful user interfaces, writing clean and efficient backend code, and learning new technologies every day. 🚀
+  I enjoy crafting beautiful UIs, writing clean backend code, and exploring new technologies every day. 🚀
 </p>
 
 ---
 
-### ⚙️ Tech Stack  
+## ⚡ Tech Stack  
 
-#### 🎨 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=F97316)
-![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=3B82F6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=FACC15)
-![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=60A5FA)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0F172A?style=for-the-badge&logo=bootstrap&logoColor=A855F7)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-1F2937?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-1F2937?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-1F2937?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-1F2937?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+  <img src="https://img.shields.io/badge/TailwindCSS-1F2937?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
+</p>
 
-#### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=22C55E)
-![Express.js](https://img.shields.io/badge/Express.js-0F172A?style=for-the-badge&logo=express&logoColor=60A5FA)
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express.js-1F2937?style=for-the-badge&logo=express&logoColor=000000" />
+</p>
 
-#### 🗄️ Database  
-![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=22C55E)
+### 🗄️ Database
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-1F2937?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+</p>
 
-#### 🧩 Tools  
-![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F87171)
-![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA)
-![Postman](https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=F97316)
-![VS Code](https://img.shields.io/badge/VS%20Code-0F172A?style=for-the-badge&logo=visual-studio-code&logoColor=60A5FA)
-![Netlify](https://img.shields.io/badge/Netlify-0F172A?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Vercel](https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=E5E7EB)
+### 🧩 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=181717" />
+  <img src="https://img.shields.io/badge/Postman-1F2937?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/VS%20Code-1F2937?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Netlify-1F2937?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
+  <img src="https://img.shields.io/badge/Vercel-1F2937?style=for-the-badge&logo=vercel&logoColor=000000" />
+</p>
 
 ---
 
-### 🧠 Currently Exploring  
+## 🧠 Currently Exploring  
 - 🔐 Authentication & Authorization (JWT + Bcrypt)  
 - ☁️ Cloud Deployment (Netlify, Vercel)  
 - 🧮 MongoDB Aggregation Pipeline  
@@ -52,27 +60,27 @@
 
 ---
 
-### 🚀 Featured Projects  
+## 🚀 Featured Projects  
 
-#### 🍫 [MFK Edibles](https://mfkedibles.in)  
-Professional website for a food brand built with **React** and **Bootstrap**.  
-Features: interactive product showcase, responsive design, and EmailJS form integration.  
+### 🍫 [MFK Edibles](https://mfkedibles.in)
+Professional website for a food brand built with **React** & **Bootstrap**.  
+**Features:** interactive product showcase, responsive design, and EmailJS form integration.  
 
-#### 💻 [Crimsons Systems](https://crimsonssystems.com)  
+### 💻 [Crimsons Systems](https://crimsonssystems.com)
 Corporate React-based website highlighting IT solutions and services.  
 Optimized for SEO, fast performance, and mobile responsiveness.  
 
-#### 🎓 [Learning Management System (LMS)](https://github.com/shakewithabhi/lms)  
+### 🎓 [Learning Management System (LMS)](https://github.com/shakewithabhi/lms)
 A **MERN Stack** LMS with authentication, role-based access, and course tracking.  
 Includes RESTful APIs, student dashboards, and secure admin controls.  
 
-#### 📚 [Book Finder](https://github.com/shakewithabhi/book-finder)  
-React app that integrates the **Google Books API** to search and explore books in real-time.  
+### 📚 [Book Finder](https://github.com/shakewithabhi/book-finder)
+React app integrating **Google Books API** for real-time book search & exploration.  
 Minimal design with smooth API handling and pagination support.  
 
 ---
 
-### 📊 GitHub Analytics  
+## 📊 GitHub Analytics  
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shakewithabhi&show_icons=true&theme=tokyonight&title_color=3B82F6&icon_color=A855F7&text_color=9CA3AF&hide_border=true" />
@@ -93,17 +101,17 @@ Minimal design with smooth API handling and pagination support.
 
 ---
 
-### 🤝 Connect with Me  
+## 🤝 Connect with Me  
 
 <p align="center">
   <a href="mailto:abhishek11singh2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=F87171" />
+    <img src="https://img.shields.io/badge/Gmail-1F2937?style=for-the-badge&logo=gmail&logoColor=F87171" />
   </a>
   <a href="https://linkedin.com/in/abhishek-singh-6b65b62b1">
-    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA" />
+    <img src="https://img.shields.io/badge/LinkedIn-1F2937?style=for-the-badge&logo=linkedin&logoColor=60A5FA" />
   </a>
   <a href="https://github.com/shakewithabhi">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=A855F7" />
+    <img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=A855F7" />
   </a>
 </p>
 
